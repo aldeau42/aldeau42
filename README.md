@@ -1,6 +1,6 @@
 ![wallpaper](https://media.licdn.com/dms/image/v2/D4E16AQEXDNAQUcGxFw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707219094014?e=1733961600&v=beta&t=p_pjGJ9YDqn4DzjvI9mkNL9jcvRieAMFWxuakE7Tzes)
 
-<h1 align="center">Hi there, I'm Alex Derouineau 👋</h1>
+<h1 align="center">Hi there, I'm Alex 👋</h1>
 <p align="center">
 I'm a student at 42 School. I currently specialize in cybersecurity projects.
 </p>
