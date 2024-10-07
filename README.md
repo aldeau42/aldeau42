@@ -1,16 +1,23 @@
-## Hi there 👋
+![wallpaper](https://media.licdn.com/dms/image/v2/D4E16AQEXDNAQUcGxFw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707219094014?e=1733961600&v=beta&t=p_pjGJ9YDqn4DzjvI9mkNL9jcvRieAMFWxuakE7Tzes)
 
-<!--
-**aldeau42/aldeau42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Alex Derouineau 👋</h1>
+<p align="center">
+I'm a student at 42 School. I currently specialize in fullstack web projects.
+</p>
+  <br/>
+<h2 align="center">🛠 Technologies & Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,django" />
+  </a>
+</p>
+  <br/>
+<h2 align="center">📈 Stats</h2>
+<p align="center">
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldeau42&theme=shadow_red&layout=compact" />&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
