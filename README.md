@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Alex Derouineau 👋</h1>
 <p align="center">
-I'm a student at 42 School. I currently specialize in fullstack web projects.
+I'm a student at 42 School. I currently specialize in cybersecurity projects.
 </p>
   <br/>
 <h2 align="center">🛠 Technologies & Skills</h2>
