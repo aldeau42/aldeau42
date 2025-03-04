@@ -11,7 +11,7 @@
   <br/>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
-  <p align="center"><a href="https://tryhackme.com/p/alko97">
+  <p align="center">
     OpenCTI | Snort | Zeek | Splunk | ...
   </p>
 
