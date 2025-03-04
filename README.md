@@ -1,8 +1,8 @@
 ![wallpaper](https://madmuseum.org/sites/default/files/styles/slider/public/2019/02/Hackers_07.jpg)
 
 <h1 align="center">Hi there, I'm Alex 👋</h1>
-  <p> I'm a student at 42 School. I currently specialize in cybersecurity projects.</p>
-  <p> 42 School cybersecurity projects are coming soon on my github page. I'm excited to share it there with you soon !</p>
+  <p> I'm a student at 42 School.</p>
+  <p> I'm currently finishing the SOC Analyst Level 1 Carrer path on TryHackMe but I'm excited to share my 42 School cybersecurity projects there with you soon !</p>
   <br/>
 
 <h2 align="center">👨‍🎓 Badges & Certs</h2>
