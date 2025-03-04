@@ -8,9 +8,10 @@ I'm a student at 42 School. I currently specialize in cybersecurity projects.
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencti, wireshark, snort, zeek, splunk" />
+    <br/><br/>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,docker" />
-    <br/>
-    <br/>
+    <br/><br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,django" />
   </a>
 </p>
