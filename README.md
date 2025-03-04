@@ -7,8 +7,8 @@ I'm a student at 42 School. I currently specialize in cybersecurity projects.
   <br/>
 
 <h2 align="center">👨‍🎓 Badges & certs</h2>
-  <p><a href="https://www.credly.com/users/alex-derouineau">CISCO</a> Junior Cybersecurity Analyst - Carrer Path, English for IT,...</p>
-  <p><a href="https://tryhackme.com/p/alko97">TryHackMe</a> SOC Analyst Level 1 - Carrer Path</p>
+  <p><a href="https://www.credly.com/users/alex-derouineau">CISCO</a> | Junior Cybersecurity Analyst - Carrer Path, English for IT,...</p>
+  <p><a href="https://tryhackme.com/p/alko97">TryHackMe</a> | SOC Analyst Level 1 - Carrer Path</p>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
