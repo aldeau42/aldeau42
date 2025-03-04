@@ -1,13 +1,13 @@
 ![wallpaper](https://madmuseum.org/sites/default/files/styles/slider/public/2019/02/Hackers_07.jpg)
 
 <h1 align="center">Hi there, I'm Alex 👋</h1>
-  <p align="center"> I'm a student at 42 School. I currently specialize in cybersecurity projects.</p>
-  <p align="center"> 42 School cybersecurity projects are coming soon on my github page. I'm excited to share it there with you soon !</p>
+  <p> I'm a student at 42 School. I currently specialize in cybersecurity projects.</p>
+  <p> 42 School cybersecurity projects are coming soon on my github page. I'm excited to share it there with you soon !</p>
   <br/>
 
 <h2 align="center">👨‍🎓 Badges & Certs</h2>
-  <p><a href="https://www.credly.com/users/alex-derouineau">CISCO</a> | Junior Cybersecurity Analyst - Carrer Path, English for IT,...</p>
-  <p><a href="https://tryhackme.com/p/alko97">TryHackMe</a> | SOC Analyst Level 1 - Carrer Path</p>
+  <p align="center"><a href="https://www.credly.com/users/alex-derouineau">CISCO</a> | Junior Cybersecurity Analyst - Carrer Path, English for IT,...</p>
+  <p align="center"><a href="https://tryhackme.com/p/alko97">TryHackMe</a> | SOC Analyst Level 1 - Carrer Path</p>
   <br/>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
