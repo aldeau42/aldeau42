@@ -11,10 +11,8 @@
   <br/>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
-  <p align="center">
-    OpenCTI | Snort | Zeek | Splunk | ...
-  </p>
-
+  <p align="center"> OpenCTI  |  Snort  |  Zeek  |  Splunk  |  ... </p>
+  <br/>
   <p align="center"><a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,html,css,js,django" />
   </a></p>
