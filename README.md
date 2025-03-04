@@ -11,6 +11,10 @@
   <br/>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
+  <p align="center"><a href="https://tryhackme.com/p/alko97">
+    OpenCTI | Snort | Zeek | Splunk | ...
+  </p>
+
   <p align="center"><a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,html,css,js,django" />
   </a></p>
