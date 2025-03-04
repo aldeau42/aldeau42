@@ -7,8 +7,7 @@ I'm a student at 42 School. I currently specialize in cybersecurity projects.
   <br/>
 
 <h2 align="center">👨‍🎓 Badges & certs</h2>
-<p src="https://www.credly.com/users/alex-derouineau">Badges</p>
-  
+  <a href="https://www.credly.com/users/alex-derouineau">Badges</a>  
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
