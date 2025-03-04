@@ -7,7 +7,7 @@ I'm a student at 42 School. I currently specialize in cybersecurity projects.
   <br/>
 
 <h2 align="center">👨‍🎓 Badges & certs</h2>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9da6c18e-9d17-474f-bc21-ef9e3cef579a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9da6c18e-9d17-474f-bc21-ef9e3cef579a" data-share-badge-host="https://www.credly.com"></div>
   
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
