@@ -1,7 +1,7 @@
 ![wallpaper](https://madmuseum.org/sites/default/files/styles/slider/public/2019/02/Hackers_07.jpg)
 
 <h1 align="center">Hi there, I'm Alex 👋</h1>
-  <p> I'm a 42 School student interested in cybersecurity realm.</p>
+  <p> I'm a 42 School student interested in the cybersecurity realm.</p>
   <p> I'm currently working on 42 cybersecurity (cf. arachnida, ft_otp, ft_onion,...) and network projects (kubernetes, BGP).</p>
   <br/>
 
